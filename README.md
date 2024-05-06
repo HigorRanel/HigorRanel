@@ -13,9 +13,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRanel&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRanel&theme=transparent&bg_color=0d1117&border_color=0d1117&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&hide_title=true&hide=stars&rank_icon=github)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HigorRanel&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HigorRanel&layout=compact&bg_color=0d1117&border_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+
 
 
 
