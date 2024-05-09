@@ -25,7 +25,7 @@
 <h3 align=center>🧑‍💻 Sobre mim</h3> 
 
 <p>
-👋🏼 Sou estudante de Sistema de Informação e tenho uma paixão incontrolável por programação. Com sólidos conhecimentos em HTML, CSS, JavaScript, Java e SQLSERVER, estou sempre em busca de novas oportunidades para aprender e me aprimorar. Minha curiosidade inquieta e criatividade são constantes impulsionadores para me destacar. Determinado a ir além do comum, busco constantemente a excelência profissional e aprimoramento contínuo. Meu foco atual é aprofundar meu conhecimento em desenvolvimento web e de aplicativos. Estou constantemente estudando novas tecnologias e técnicas, e sempre procurando maneiras de melhorar minhas habilidades tanto pessoais quanto de desenvolvimento. Espero continuar crescendo e contribuindo de forma significativa no campo da tecnologia.
+👋🏼 Sou estudante de Sistemas de Informação e tenho uma paixão incontrolável por programação. Com sólidos conhecimentos em HTML, CSS, JavaScript, Java e SQLSERVER, estou sempre em busca de novas oportunidades para aprender e me aprimorar. Minha curiosidade inquieta e criatividade são constantes impulsionadores para me destacar. Determinado a ir além do comum, busco constantemente a excelência profissional e aprimoramento contínuo. Meu foco atual é aprofundar meu conhecimento em desenvolvimento web e de aplicativos. Estou constantemente estudando novas tecnologias e técnicas, e sempre procurando maneiras de melhorar minhas habilidades tanto pessoais quanto de desenvolvimento. Espero continuar crescendo e contribuindo de forma significativa no campo da tecnologia.
 </p>
 
 </div><br/>
